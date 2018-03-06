@@ -1,0 +1,16 @@
+.space_icon {
+	border: 1px solid #bbb;
+	border-radius: 1px;
+	display: inline-block;
+	padding: 1px 3px 1px 2px;
+	margin: 0px 1px 0px 1px;
+	
+}
+.space_icon:hover {
+	border: 1px solid #999;
+	
+}
+.space_icon:hover span {
+	color: #333;
+	
+}
